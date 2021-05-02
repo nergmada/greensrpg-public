@@ -18,9 +18,9 @@ jobs:
       run: docker login docker.pkg.github.com -u $GITHUB_ACTOR -p ${{ secrets.GITHUB_TOKEN }} 
     #push version
     - name: tag docker image to repo repository
-      run: docker tag greensrpg:latest docker.pkg.github.com/nergmada/greensrpg/greensrpg:latest
+      run: docker tag greensrpg:latest docker.pkg.github.com/nergmada/greensrpg-public/greensrpg:latest
     - name: push docker image to repo
-      run: docker push docker.pkg.github.com/nergmada/greensrpg/greensrpg:latest
+      run: docker push docker.pkg.github.com/nergmada/greensrpg-public/greensrpg:latest
     - name: deploy via ssh
       uses: garygrossgarten/github-action-ssh@release
       with:
