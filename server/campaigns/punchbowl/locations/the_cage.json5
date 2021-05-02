@@ -1,0 +1,12 @@
+{
+    name: "The Cage",
+    description: "file:./locations/descriptions/the_cage.txt",
+    act: 3,
+    images: [
+        'asset:./locations/the_cage'
+    ],
+    private_description: "file:./locations/descriptions/private_the_cage.txt",
+    audio: "final_fight",
+    combat_override: true,
+    features: []
+}

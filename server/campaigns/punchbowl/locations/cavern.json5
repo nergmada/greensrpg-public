@@ -1,0 +1,11 @@
+{
+    name: "Cavern",
+    description: "file:./locations/descriptions/cavern.txt",
+    act: 2,
+    images: [
+        'asset:./locations/cave_interior'
+    ],
+    private_description: "file:./locations/descriptions/private_cavern.txt",
+    audio: "cavern",
+    features: []
+}

@@ -1,0 +1,22 @@
+[{
+    name: "Erase Memories (A)",
+    description: "file:./all_abilities/erase_memories.txt"
+}, {
+    name: "Far Step (A)",
+    description: "file:./all_abilities/far_step.txt"
+}, {
+    name: "Hedge Magic (A)",
+    description: "file:./all_abilities/hedge_magic.txt"
+}, {
+    name: "Shatter (A)",
+    description: "file:./all_abilities/shatter.txt"
+}, {
+    name: "Discern Motives (S, D)",
+    description: "You are trained in discerning people’s true motives or seeing through lies."
+}, {
+    name: "Self-Righteous (S, D)",
+    description: "Your adherence to a strict moral code has hardened your mind against fear, doubt, and outside influence. You are trained in Intellect defense tasks."
+}, {
+    name: "Arcane Flare (A, E, D)",
+    description: "file:./all_abilities/arcane_flare.txt"
+}]

@@ -1,0 +1,11 @@
+{
+    name: "A clearing",
+    description: "The clearing is surrounded by trees but the grass has been tamed, possibly by wildlife, or by camps",
+    act: 1,
+    images: [
+        'asset:./locations/clearing'
+    ],
+    private_description: "Escape is more difficult from a clearing because all terrain around it is rougher and the clearing is the most visibly lit",
+    audio: "forest_2",
+    features: []
+}

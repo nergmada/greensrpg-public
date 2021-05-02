@@ -1,0 +1,8 @@
+{
+    name: "Ranger's Lodge (Ground Floor) [H]",
+    description: "file:./locations/descriptions/rangers_lodge_level_1.txt",
+    private_description: "file:./locations/descriptions/private_rangers_lodge_level_1.txt",
+    audio: "lodge",
+    act: 3,
+    features: []
+}

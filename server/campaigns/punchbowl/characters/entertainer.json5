@@ -1,0 +1,40 @@
+{
+    player_name: 'aleks',
+    name: 'Aleks E',
+    type: 'Speaker',
+    short_description: "The Pianist. A gifted musician and entertainer at private functions of Lord Williams and a message courier on his behalf to the upper echelons of London society.",
+    tier: 1,
+    effort: 1,
+    armor: 0,
+    edge: {
+        might: 0,
+        speed: 0,
+        intellect: 1
+    },
+    stats: {
+        might: {
+            max: 10,
+            current: 10
+        },
+        speed: {
+            max: 10,
+            current: 10
+        },
+        intellect: {
+            max: 14,
+            current: 14
+        }, 
+        exp: {
+            current: 0,
+            max: 10
+        },
+        luck: {
+            current: 3,
+            max: 3
+        }
+    },
+    bio: "file:./bios/entertainer_bio.txt",
+    color: "bb10aa",
+    inventory: "json5:./inventory/entertainer.json5",
+    abilities: "json5:./abilities/entertainer.json5"
+}

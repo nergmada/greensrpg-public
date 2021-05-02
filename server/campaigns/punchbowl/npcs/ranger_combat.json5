@@ -1,0 +1,20 @@
+{
+    name: 'Ranger (Bandit)',
+    armor: 0,
+    level: 5,
+    hostile: true,
+    stats: {
+        health: {
+            max: 15,
+            current: 12
+        }
+    },
+    bio: "file:./npc_bios/ranger.txt",
+    private_bio: "file:./npc_bios/private_ranger.txt",
+    color: "000944",
+    inventory: [{
+        name: "knife (W, Lgt)",
+        description: "This large knife is similar to a machete and primarily serves to help chop back the wilderness"
+    }],
+    abilities: []
+}

@@ -1,0 +1,36 @@
+{
+    player_name: 'shayagi',
+    name: 'Shayagi K',
+    type: 'Explorer',
+    short_description: "The Smuggler. The quick witted savvy operator, who helps Lord Williams acquire the many occult artifacts of interest. For the right price.",
+    tier: 1,
+    effort: 1,
+    armor: 0,
+    edge: {
+        might: 1,
+        speed: 0,
+        intellect: 0
+    },
+    stats: {
+        might: {
+            max: 13,
+            current: 13
+        },
+        speed: {
+            max: 11,
+            current: 11
+        },
+        intellect: {
+            max: 12,
+            current: 12
+        }, 
+        exp: {
+            current: 0,
+            max: 10
+        }
+    },
+    bio: "file:./bios/smuggler_bio.txt",
+    color: "bb0000",
+    inventory: "json5:./inventory/smuggler.json5",
+    abilities: "json5:./abilities/smuggler.json5"
+}

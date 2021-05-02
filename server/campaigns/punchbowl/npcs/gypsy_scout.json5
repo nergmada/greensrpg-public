@@ -1,0 +1,17 @@
+{
+    name: 'Gypsy Scout',
+    armor: 0,
+    level: 3,
+    hostile: false,
+    stats: {
+        health: {
+            max: 9,
+            current: 9
+        }
+    },
+    bio: "file:./npc_bios/gypsy_scout.txt",
+    private_bio: "",
+    color: "004F00",
+    inventory: [],
+    abilities: []
+}

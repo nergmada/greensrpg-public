@@ -1,0 +1,12 @@
+{
+    name: "Fight Circle",
+    description: "The camp has a dusted dirt clearing that seems to have been setup in order to allow people to fight",
+    act: 2,
+    images: [
+        'asset:./locations/bandit_camp'
+    ],
+    private_description: "Escape is more difficult from this circle because you're encircled by bandits and the surrounding area is worse lit and rougher terrain.",
+    audio: "first_encounter",
+    combat_override: true,
+    features: []
+}

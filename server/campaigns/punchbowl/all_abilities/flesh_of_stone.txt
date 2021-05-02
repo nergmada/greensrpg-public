@@ -1,0 +1,1 @@
+You have +1 to Armor if you do not wear physical armor. Enabler

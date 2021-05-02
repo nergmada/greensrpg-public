@@ -1,0 +1,14 @@
+{
+    name: "Ranger's Lodge (Balcony)",
+    description: "file:./locations/descriptions/rangers_lodge_level_2.txt",
+    private_description: "file:./locations/descriptions/private_rangers_lodge_level_2.txt",
+    audio: "lodge",
+    images: [
+        'asset:./locations/lodge_upper'
+    ],
+    act: 1,
+    features: [{
+        name: "Storage boxes",
+        description: "There are various boxes and crates, some closed and some open placed on the second floor for storage"
+    }]
+}

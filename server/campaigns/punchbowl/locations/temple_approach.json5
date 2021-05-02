@@ -1,0 +1,11 @@
+{
+    name: "Temple Approach",
+    description: "file:./locations/descriptions/temple_approach.txt",
+    act: 3,
+    images: [
+        'asset:./locations/temple_exterior'
+    ],
+    private_description: "file:./locations/descriptions/private_temple_approach.txt",
+    audio: "temple_approach",
+    features: []
+}

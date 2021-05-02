@@ -1,0 +1,16 @@
+{
+    name: 'Lord Williams',
+    armor: 1,
+    level: 6,
+    hostile: false,
+    stats: {
+        health: {
+            max: 18,
+            current: 18
+        }
+    },
+    bio: "file:./npc_bios/lord_williams.txt",
+    color: "0031FA",
+    inventory: [],
+    abilities: []
+}

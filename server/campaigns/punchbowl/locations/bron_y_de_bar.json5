@@ -1,0 +1,14 @@
+{
+    name: "Bron-y-de Bar",
+    description: "file:./locations/descriptions/bron_y_de_bar.txt",
+    private_description: "",
+    audio: "bron_y_de_bar",
+    act: 1,
+    images: [
+        'asset:./locations/tavern'
+    ],
+    features: [{
+        name: "A bar keep",
+        description: "The barkeep seems less than impressed that he's still serving drinks"
+    }]
+}

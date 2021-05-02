@@ -1,0 +1,11 @@
+{
+    name: "Upper Temple",
+    description: "file:./locations/descriptions/temple_lobby.txt",
+    act: 3,
+    images: [
+        'asset:./locations/inner_temple'
+    ],
+    private_description: "file:./locations/descriptions/private_temple_lobby.txt",
+    audio: "inner_temple",
+    features: []
+}

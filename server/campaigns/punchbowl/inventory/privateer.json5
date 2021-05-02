@@ -1,0 +1,19 @@
+[{
+    name: "Privateer's Guild Ring (E)",
+    description: "This ring signifies your membership of the privateer's guild, other members should honour the code of privateering if you present this ring, in particular parley and mutual non-hostility"
+}, {
+    name: "Rope (M)",
+    description: "A rope, it's about 10m long, it can make climbs easier, or be used for any other number of things"
+}, {
+    name: "Explosive Powder and a Match (M)",
+    description: "Some explosive powder and a match, not really practical as a direct weapon, but might be useful for traps or blasting things open"
+}, {
+    name: "A rapier (W, Med)",
+    description: "A sword you've owned for a long time, where did it come from, where did it go? This sword gave Joe his cotton eye"
+}, {
+    name: "A pistol (W, Lgt)",
+    description: "A pistol, it has a four barrel chamber, but it's very unreliable and frequently gets jammed"
+}, {
+    name: "A wood pipe (E,C)",
+    description: "You came into posession of this finely crafted pipe after night imbibing with a shaman in Haiti."
+}]

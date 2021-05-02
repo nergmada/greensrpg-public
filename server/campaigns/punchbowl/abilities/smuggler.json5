@@ -1,0 +1,28 @@
+[{
+    name: "Find the Way (A)",
+    description: "file:./all_abilities/find_the_way.txt"
+}, {
+    name: "Fleet of Foot (A)",
+    description: "file:./all_abilities/fleet_of_foot.txt"
+}, {
+    name: "Legerdemain (A)",
+    description: "file:./all_abilities/legerdemain.txt"
+}, {
+    name: "Opportunist (E)",
+    description: "file:./all_abilities/opportunist.txt"
+}, {
+    name: "I do this for a living (E,D)",
+    description: "You’re trained in all actions involving identifying or understanding the supernatural. "
+}, {
+    name: "Sense Magic (A,D)",
+    description: "You can sense whether the supernatural is active in situations where its presence is not obvious. You must study an object or location closely for a minute to get a feel for whether a mystical touch is at work."
+}, {
+    name: "Hedge Magic (A,D)",
+    description: "file:./all_abilities/hedge_magic.txt"
+}, {
+    name: "You're freaking me the fuck out (I,D)",
+    description: "You have a manner or an aura that others find a bit unnerving. Any task involving charm, persuasion, or deception is hindered."
+}, {
+    name: "Taking Advantage (E,F)",
+    description: "file:./all_abilities/taking_advantage.txt"
+}]

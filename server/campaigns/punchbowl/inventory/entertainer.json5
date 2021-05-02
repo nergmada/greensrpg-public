@@ -1,0 +1,16 @@
+[{
+    name: "Ruby Ring (E)",
+    description: "A valuable ruby ring given to you as an engagement ring"
+}, {
+    name: "Wax Seal of Lord Williams (E)",
+    description: "A wax seal used to seal letters on his behalf, this seal is considered legally binding and allows the bearer to authorise decrees in Lord Williams' name"
+}, {
+    name: "Piano Wire (M,W,Lgt)",
+    description: "Wire for a piano. Strong wire made from metal, may have other uses"
+}, {
+    name: "A leather satchel (M)",
+    description: "A finely crafted satchel made from imported leathers, useful for carrying items long distances"
+}, {
+    name: "Red notebook (E,C)",
+    description: "A notebook you inexplicably found whilst walking, there's no clear reason for holding onto it, but you do."
+}]

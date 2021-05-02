@@ -1,0 +1,28 @@
+[{
+    name: "Overwatch (A)",
+    description: "file:./all_abilities/overwatch.txt"
+}, {
+    name: "Bash (A)",
+    description: "file:./all_abilities/bash.txt"
+}, {
+    name: "Combat Prowess (E)",
+    description: "file:./all_abilities/combat_prowess.txt"
+}, {
+    name: "Control The Field (A)",
+    description: "file:./all_abilities/control_the_field.txt"
+}, {
+    name: "Fast Healer (E,D)",
+    description: "You halve the time it takes you to recover (minimum time, 1 action)"
+}, {
+    name: "Unstoppable (E,D)",
+    description: "When you lose all the points in a given pool, it doesn't impact your combat effectiveness or make rolls more difficult until you lose at least two pools"
+}, {
+    name: "Unwieldy (E,I,D)",
+    description: "When we roll to determine who attacks before or after, you are at a one level disadvantage"
+}, {
+    name: "Ponderous (I,D)",
+    description: "When applying effort that requires use of your speed pool, you must spend one extra point"
+}, {
+    name: "Attack Flourish (A,F)",
+    description: "file:./all_abilities/attack_flourish.txt"
+}]

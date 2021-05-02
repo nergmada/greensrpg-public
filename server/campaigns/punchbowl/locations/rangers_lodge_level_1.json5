@@ -1,0 +1,14 @@
+{
+    name: "Ranger's Lodge (Ground Floor)",
+    description: "file:./locations/descriptions/rangers_lodge_level_1.txt",
+    private_description: "file:./locations/descriptions/private_rangers_lodge_level_1.txt",
+    audio: "lodge",
+    images: [
+        'asset:./locations/lodge_lower'
+    ],
+    act: 1,
+    features: [{
+        name: "Ranger's Corpse",
+        description: "The naked bloodied corpse of the ranger lies on the floor behind a table"
+    }]
+}

@@ -1,0 +1,10 @@
+[{
+    name: "Ancient Copper Gauntlet (E, C)",
+    description: "You acquired this ancient copper gauntlet whilst exploring the Himalayas following a voice in your head. Its precise nature is not immediately clear, and it is inscribed with a language you cannot understand. Still, you are certain of one thing, if the shrine it came from can disappear like a drug fuelled fever dream, this gauntlet must be supernatural."
+}, {
+    name: "Jade Spear (E, W, Lgt)",
+    description: "This spear was acquired during your expedition to a shrine in The Himalayas. It is strong, and sturdy, and a capable weapon. You have practiced with it, since taking it off a statue of some goddess."
+}, {
+    name: "Compass (M)",
+    description: "It points. Sometimes it even points north, if you hold really still."
+}]

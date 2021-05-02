@@ -1,0 +1,17 @@
+{
+    name: 'Royal Snow Leopard',
+    armor: 0,
+    level: 4,
+    hostile: false,
+    stats: {
+        health: {
+            max: 12,
+            current: 12
+        }
+    },
+    bio: "file:./npc_bios/snow_leopard.txt",
+    private_bio: "",
+    color: "4B00AF",
+    inventory: [],
+    abilities: []
+}

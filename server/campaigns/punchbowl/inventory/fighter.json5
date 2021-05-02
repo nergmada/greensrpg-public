@@ -1,0 +1,16 @@
+[{
+    name: 'Ancient Bangles (E)',
+    description: "These ancient bangles are worked in the shape of a mobius strip and are inscribed with an occult inscription."
+}, {
+    name: 'Telescopic Blade (E, W, Med)',
+    description: "This unusual spring-loaded telescopic blade extends to a metre in length and has a finely crafted steel hilt"
+}, {
+    name: 'Pocketwatch (M)',
+    description: "It tells time."
+}, {
+    name: 'Bandages (M)',
+    description: "Used to cover wounds or bind injuries, bandages are long strips of fabric, and have many other secondary uses"
+}, {
+    name: 'Necklace (E,C)',
+    description: "You purchased this necklace from a trader in a market in London. It has no obvious magical qualities, but you like to wear it."
+}]

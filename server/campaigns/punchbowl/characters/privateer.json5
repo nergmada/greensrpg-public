@@ -1,0 +1,36 @@
+{
+    player_name: 'enrique',
+    name: 'Enrique N',
+    type: 'Warrior',
+    short_description: "The Bodyguard. A capable privateer turned bodyguard who's had more than one unexplained near miss with death, whilst escorting Lord Williams round the Caribbean",
+    tier: 1,
+    effort: 1,
+    armor: 0,
+    edge: {
+        might: 1,
+        speed: 0,
+        intellect: 0
+    },
+    stats: {
+        might: {
+            max: 17,
+            current: 17
+        },
+        speed: {
+            max: 11,
+            current: 11
+        },
+        intellect: {
+            max: 10,
+            current: 10
+        }, 
+        exp: {
+            current: 0,
+            max: 10
+        }
+    },
+    bio: "file:./bios/privateer_bio.txt",
+    color: "00aa00",
+    inventory: "json5:./inventory/privateer.json5",
+    abilities: "json5:./abilities/privateer.json5"
+}

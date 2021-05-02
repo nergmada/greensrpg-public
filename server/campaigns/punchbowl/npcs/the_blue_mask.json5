@@ -1,0 +1,23 @@
+{
+    name: 'The Blue Mask',
+    armor: 0,
+    level: 6,
+    hostile: true,
+    stats: {
+        health: {
+            max: 30,
+            current: 30
+        }
+    },
+    bio: "file:./npc_bios/the_blue_mask.txt",
+    private_bio: "file:./npc_bios/private_the_blue_mask.txt",
+    color: "000944",
+    inventory: [],
+    abilities: [{
+        name: "Pulse of Energy",
+        description: "This magic user has the ability to cast a streak of energy which disrupts the forces holding objects together, and inflicts 6 damage."
+    }, {
+        name: "Blast",
+        description: "This magic user has the ability to cast a blast of wind that sends objects and people flying, causing 2 damage to each person in immediate distance to them"
+    }]
+}

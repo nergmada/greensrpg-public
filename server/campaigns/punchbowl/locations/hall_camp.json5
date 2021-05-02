@@ -1,0 +1,8 @@
+{
+    name: "Traveller's Camp [H]",
+    act: 3,
+    description: "file:./locations/descriptions/traveller_camp.txt",
+    private_description: "file:./locations/descriptions/private_traveller_camp.txt",
+    audio: "traveller_camp",
+    features: []
+}

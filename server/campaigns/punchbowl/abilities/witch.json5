@@ -1,0 +1,22 @@
+[{
+    name: "Distortion (A)",
+    description: "file:./all_abilities/distortion.txt"
+}, {
+    name: "Onslaught (A)",
+    description: "file:./all_abilities/onslaught.txt"
+}, {
+    name: "Sculpt Flesh (A)",
+    description: "file:./all_abilities/sculpt_flesh.txt"
+}, {
+    name: "Practiced with Light Weapons (E)",
+    description: "You can use light weapons without penalty, you also start with one light weapon. Enabler"
+}, {
+    name: "Yeah, they're a good time (S,D)",
+    description: "You are trained in all tasks related to pleasant social interactions"
+}, {
+    name: "One Step Ahead (S,D)",
+    description: "You are trained in all tasks related to puzzle solving and riddles"
+}, {
+    name: "Trained Explorer (S,F)",
+    description: "You are trained in searching, listening, climbing, balancing and jumping tasks."
+}]

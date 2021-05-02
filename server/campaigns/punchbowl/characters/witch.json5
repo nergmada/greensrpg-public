@@ -1,0 +1,36 @@
+{
+    player_name: 'athirai',
+    name: 'Athirai S',
+    type: 'Adept',
+    short_description: "The Witch. A powerful wielder of supernatural abilities. A voice called from the mountains. They answered. A keen new interest of Lord Williams.",
+    tier: 1,
+    effort: 1,
+    armor: 0,
+    edge: {
+        might: 0,
+        speed: 0,
+        intellect: 1
+    },
+    stats: {
+        might: {
+            max: 10,
+            current: 10
+        },
+        speed: {
+            max: 9,
+            current: 9
+        },
+        intellect: {
+            max: 17,
+            current: 17
+        }, 
+        exp: {
+            current: 0,
+            max: 10
+        }
+    },
+    bio: "file:./bios/witch_bio.txt",
+    color: "bb44aa",
+    inventory: "json5:./inventory/witch.json5",
+    abilities: "json5:./abilities/witch.json5"
+}

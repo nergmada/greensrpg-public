@@ -1,0 +1,17 @@
+{
+    name: "Ranger's Lodge (Ext)",
+    description: "file:./locations/descriptions/rangers_lodge.txt",
+    private_description: "file:./locations/descriptions/private_rangers_lodge.txt",
+    audio: "forest",
+    act: 1,
+    images: [
+        'asset:./locations/rangers_lodge'
+    ],
+    features: [{
+        name: "Ranger",
+        description: "A ranger sits in a wood chair outside the lodge"
+    }, {
+        name: "Horse",
+        description: "In the field behind, a single horse, lays on a hay bedding in the summer night"
+    }]
+}

@@ -1,0 +1,20 @@
+{
+    name: "Lady Arthur's Hotel Room",
+    description: "file:./locations/descriptions/lady_arthur_bedroom.txt",
+    private_description: "",
+    audio: "lady_arthurs_bedroom",
+    images: [
+        'asset:./locations/bedroom'
+    ],
+    act: 1,
+    features: [{
+        name: "A pried window",
+        description: "The window has been pried rather than smashed to avoid making noise"
+    }, {
+        name: "Boot print",
+        description: "There are a number of muddy boot prints on the floor"
+    }, {
+        name: "Dresser",
+        description: "The dresser seems to have a number of papers on it, probably post-nuptial gratitude letters"
+    }]
+}

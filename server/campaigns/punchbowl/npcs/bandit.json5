@@ -1,0 +1,17 @@
+{
+    name: 'Bandit',
+    armor: 0,
+    level: 3,
+    hostile: true,
+    stats: {
+        health: {
+            max: 9,
+            current: 9
+        }
+    },
+    bio: "file:./npc_bios/bandit.txt",
+    private_bio: "This is a private bio players can't see",
+    color: "ff0000",
+    inventory: [],
+    abilities: []
+}

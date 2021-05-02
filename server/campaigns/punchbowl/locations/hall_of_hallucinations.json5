@@ -1,0 +1,8 @@
+{
+    name: "Lower Temple Hall",
+    description: "file:./locations/descriptions/hall_of_hallucinations.txt",
+    act: 3,
+    private_description: "file:./locations/descriptions/private_hall_of_hallucinations.txt",
+    audio: "inner_temple",
+    features: []
+}

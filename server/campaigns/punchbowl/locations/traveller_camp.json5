@@ -1,0 +1,14 @@
+{
+    name: "Traveller's Camp",
+    act: 2,
+    description: "file:./locations/descriptions/traveller_camp.txt",
+    private_description: "file:./locations/descriptions/private_traveller_camp.txt",
+    audio: "traveller_camp",
+    images: [
+        'asset:./locations/gypsy_queen'
+    ],
+    features: [{
+        name: "Broth",
+        description: "There's a broth brewing over one of the open fires, that looks like it may restore a few pool points (Free Recovery Roll)"
+    }]
+}

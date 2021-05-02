@@ -1,0 +1,22 @@
+[{
+    name: "Fast Talk (A)",
+    description: "file:./all_abilities/fast_talk.txt"
+}, {
+    name: "Spin Identity (A)",
+    description: "file:./all_abilities/spin_identity.txt"
+}, {
+    name: "Demeanor of Command (A)",
+    description: "file:./all_abilities/demeanor_of_command.txt"
+}, {
+    name: "Enthrall (A)",
+    description: "file:./all_abilities/enthrall.txt"
+}, {
+    name: "Advantage (E,D)",
+    description: "When using an XP to re-roll a d20 roll, you add 3 to the new roll"
+}, {
+    name: "Rapid Recovery (E,F)",
+    description: "file:./all_abilities/rapid_recovery.txt"
+}, {
+    name: "Push on Through (E,F)",
+    description: "file:./all_abilities/push_on_through.txt"
+}]

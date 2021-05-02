@@ -1,0 +1,20 @@
+{
+    name: 'Mercenary',
+    armor: 1,
+    level: 3,
+    hostile: true,
+    stats: {
+        health: {
+            max: 9,
+            current: 9
+        }
+    },
+    bio: "file:./npc_bios/mercenary.txt",
+    private_bio: "",
+    color: "000944",
+    inventory: [{
+        name: "Rifle (W, Med)",
+        description: "This rifle is a standard service rifle given to various officers and infantry in British forces"
+    }],
+    abilities: []
+}

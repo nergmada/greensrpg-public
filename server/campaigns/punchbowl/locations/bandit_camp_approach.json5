@@ -1,0 +1,11 @@
+{
+    name: "Bandit Camp Approach",
+    description: "file:./locations/descriptions/bandit_camp_approach.txt",
+    private_description: "file:./locations/descriptions/private_bandit_camp_approach.txt",
+    images: [
+        'asset:./locations/bandit_camp'
+    ],
+    audio: "camp",
+    act: 2,
+    features: []
+}

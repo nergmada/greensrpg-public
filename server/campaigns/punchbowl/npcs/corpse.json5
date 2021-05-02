@@ -1,0 +1,20 @@
+{
+    name: "Ranger's Corpse",
+    armor: 0,
+    level: 3,
+    hostile: false,
+    stats: {
+        health: {
+            max: 9,
+            current: 0
+        }
+    },
+    bio: "The dead man, was in his early 30s, there is blood running down the front of his face",
+    private_bio: "Killed using occult magic that fried is brain",
+    color: "ffffff",
+    inventory: [{
+        name: "knife (W, Lgt)",
+        description: "This large knife is similar to a machete and primarily serves to help chop back the wilderness"
+    }],
+    abilities: []
+}

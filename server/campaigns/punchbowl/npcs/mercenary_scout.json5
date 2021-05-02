@@ -1,0 +1,20 @@
+{
+    name: 'Mercenary Scout',
+    armor: 0,
+    level: 2,
+    hostile: true,
+    stats: {
+        health: {
+            max: 6,
+            current: 6
+        }
+    },
+    bio: "file:./npc_bios/mercenary_scout.txt",
+    private_bio: "",
+    color: "000944",
+    inventory: [{
+        name: "knife (W, Lgt)",
+        description: "This large knife is similar to a machete and primarily serves to help chop back the wilderness"
+    }],
+    abilities: []
+}

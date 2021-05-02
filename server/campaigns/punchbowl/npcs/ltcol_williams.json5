@@ -1,0 +1,19 @@
+{
+    name: 'Lt-Col. Williams',
+    armor: 1,
+    level: 7,
+    hostile: false,
+    stats: {
+        health: {
+            max: 21,
+            current: 21
+        }
+    },
+    bio: "file:./npc_bios/ltcol_williams.txt",
+    color: "0031FA",
+    inventory: [{
+        name: "Service Pistol (W, Lgt)",
+        description: "This is a standard side arm of senior officers, a six bullet revolver"
+    }],
+    abilities: []
+}

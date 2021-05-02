@@ -1,0 +1,16 @@
+[{
+    name: "My Little Black Book (E)",
+    description: "You might not know what every does that you've shipped, or even where it came from, but you do know what you moved, when you moved it and where you moved it to."
+}, {
+    name: "Occult Rings (E,C)",
+    description: "Occult rings you've come into possession of through your exploits. Worth something to the right person"
+}, {
+    name: "Sickle (W, Med)",
+    description: "Most people would opt for a sword, or even a gun, but you've chosen a sickle for the purpose of self-defense"
+}, {
+    name: "Pistol (W, Lgt)",
+    description: "A single shot pistol that you bought off some sketchy looking gentleman at the docks. Despite its somewhat suspect origin, it's a very reliable pistol"
+}, {
+    name: "Devil's Lettuce (M)",
+    description: "Mary Jane, Wacky Tabacky, Ganja. This stuff is good, you've got a guy."
+}]

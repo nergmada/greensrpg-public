@@ -1,0 +1,34 @@
+name: Green's RPG publish
+on:
+  push:
+    branches: [ master ]
+env:
+  HOST: greensrpg.com
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout the repo...
+      uses: actions/checkout@v2
+    #Build image
+    - name: Build the Docker image
+      run: docker build . --file Dockerfile --tag greensrpg:latest
+    #login to the repository
+    - name: Login to github image repository
+      run: docker login docker.pkg.github.com -u $GITHUB_ACTOR -p ${{ secrets.GITHUB_TOKEN }} 
+    #push version
+    - name: tag docker image to repo repository
+      run: docker tag greensrpg:latest docker.pkg.github.com/nergmada/greensrpg/greensrpg:latest
+    - name: push docker image to repo
+      run: docker push docker.pkg.github.com/nergmada/greensrpg/greensrpg:latest
+    - name: deploy via ssh
+      uses: garygrossgarten/github-action-ssh@release
+      with:
+        command: > #Change directory, login into to private docker repo, and rebuild
+          echo ${{ github.actor }}
+          && docker login docker.pkg.github.com -u ${{ github.actor }} -p ${{ secrets.GITHUB_TOKEN }} 
+          && docker-compose pull greensrpg
+          && docker-compose up -d --build --force-recreate greensrpg
+        host: ${{ env.HOST }}
+        username: root
+        privateKey: ${{ secrets.DEPLOY_SSH_KEY }}

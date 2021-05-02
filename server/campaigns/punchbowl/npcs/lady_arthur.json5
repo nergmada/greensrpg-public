@@ -1,0 +1,17 @@
+{
+    name: 'Lady Arthur',
+    armor: 0,
+    level: 2,
+    hostile: false,
+    stats: {
+        health: {
+            max: 6,
+            current: 6
+        }
+    },
+    bio: "file:./npc_bios/lady_arthur.txt",
+    private_bio: "",
+    color: "0031FA",
+    inventory: [],
+    abilities: []
+}

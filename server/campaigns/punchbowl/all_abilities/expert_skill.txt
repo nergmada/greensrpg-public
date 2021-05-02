@@ -1,0 +1,1 @@
+Instead of rolling a d20, you can choose to automatically succeed on a task you're trained in. The task must be difficulty 4 or lower, and it can't be an attack roll or a defense roll. Enabler

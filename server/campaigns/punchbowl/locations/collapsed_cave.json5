@@ -1,0 +1,11 @@
+{
+    name: "Collapsed Cave",
+    description: "file:./locations/descriptions/collapsed_cave.txt",
+    act: 3,
+    images: [
+        'asset:./locations/cave_exterior'
+    ],
+    private_description: "Enter agent Alice Thirlby",
+    audio: "thirlby",
+    features: []
+}

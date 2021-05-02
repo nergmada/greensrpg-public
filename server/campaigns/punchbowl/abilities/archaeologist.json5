@@ -1,0 +1,28 @@
+[{
+    name: "Danger Sense (E)",
+    description: "file:./all_abilities/danger_sense.txt"
+}, {
+    name: "Decipher (A)",
+    description: "file:./all_abilities/decipher.txt"
+}, {
+    name: "Improved Edge (E)",
+    description: "Choose one of your Edge stats that is 0. It increases to 1. Enabler. (GM increased intellect edge)"
+}, {
+    name: "Block (A)",
+    description: "file:./all_abilities/block.txt"
+}, {
+    name: "Trickery (S, D)",
+    description: "You’re trained in all interactions involving lies or trickery."
+}, {
+    name: "Mental Fortitude (S, D)",
+    description: "You’re trained in defense rolls to resist mental effects. "
+}, {
+    name: "Keen Analytics (S, D)",
+    description: "You’re trained in all tasks involving identifying or assessing danger, lies, quality, importance, function, or power."
+}, {
+    name: "Too Basic for Me (I, D)",
+    description: "You were never good at studying or retaining trivial knowledge. Any task involving lore, knowledge, or understanding is hindered."
+}, {
+    name: "Fletcher (E, F)",
+    description: "You have the ability to craft new arrows assuming you have the raw material and time"
+}]

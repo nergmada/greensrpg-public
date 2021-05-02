@@ -1,0 +1,11 @@
+{
+    name: "Bandit Camp Cages",
+    description: "file:./locations/descriptions/bandit_camp.txt",
+    act: 2,
+    images: [
+        'asset:./locations/bandit_camp'
+    ],
+    private_description: "file:./locations/descriptions/private_bandit_camp.txt",
+    audio: "captured",
+    features: []
+}

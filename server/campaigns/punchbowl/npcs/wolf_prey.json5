@@ -1,0 +1,20 @@
+{
+    name: 'Ranger Corpse (Bandit)',
+    armor: 0,
+    level: 3,
+    hostile: true,
+    stats: {
+        health: {
+            max: 9,
+            current: 0
+        }
+    },
+    bio: "file:./npc_bios/ranger_deceased.txt",
+    private_bio: "Killed by the wolf, force take map location",
+    color: "000944",
+    inventory: [{
+        name: "Map",
+        description: "This map seems more up-to-date than the one at Bron-y-de and has been annotated with the location of a local traveller camp"
+    }],
+    abilities: []
+}

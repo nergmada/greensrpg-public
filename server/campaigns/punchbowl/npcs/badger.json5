@@ -1,0 +1,17 @@
+{
+    name: 'Aggressive Badger',
+    armor: 0,
+    level: 3,
+    hostile: true,
+    stats: {
+        health: {
+            max: 9,
+            current: 9
+        }
+    },
+    bio: "An english badger, vicious with claws it normally only attacks when threatened",
+    private_bio: "Level 5 detect magic task: This badger is afflicted by a rune that is tormenting the local wildlife's psyche, it'll affect people the closer you get to the rune",
+    color: "ff0000",
+    inventory: [],
+    abilities: []
+}

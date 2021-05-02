@@ -1,0 +1,9 @@
+{
+    name: "The Lake",
+    description: "As you escape out of the temple climbing the stairs and barging through as fleeing acolytes and mercenaries do the same, you all barely escape with your lives, Lady Arthur in tow, safe and rescued",
+    act: 4,
+    private_description: "",
+    audio: "credits",
+    combat_override: true,
+    features: []
+}

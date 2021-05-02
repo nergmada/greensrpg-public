@@ -1,0 +1,16 @@
+[{
+    name: "Obsidian Throwing Knives (E,W,Lgt)",
+    description: "A pair of throwing knives made from a rare form of obsidian glass. Perfectly balanced"
+}, {
+    name: "A Novel (E)",
+    description: "A first edition of Madame Bovary, acquired from the reading library of a criminal lowlife you dispensed with during your work"
+}, {
+    name: "A Looking Glass (M)",
+    description: "A spyglass through which to look, one of the 5 natural senses."
+}, {
+    name: "Single-use Lock picking tools (M)",
+    description: "Single-use lock picking tools, they're kind of rubbish but they'll get the job done once. Probably."
+}, {
+    name: "An Old wood-carved statue (E,C)",
+    description: "You recovered this conducting a raid for Lord Williams. You reported to him that the statue was not in fact found"
+}]

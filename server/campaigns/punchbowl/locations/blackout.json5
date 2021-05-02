@@ -1,0 +1,8 @@
+{
+    name: "Blackout",
+    description: "Your vision goes black and you collapse or passout, remembering little if anything.",
+    act: 2,
+    private_description: "",
+    audio: "default",
+    features: []
+}

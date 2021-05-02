@@ -1,0 +1,17 @@
+{
+    name: 'Alice Thirlby',
+    armor: 0,
+    level: 5,
+    hostile: false,
+    stats: {
+        health: {
+            max: 15,
+            current: 15
+        }
+    },
+    bio: "file:./npc_bios/alice_thirlby.txt",
+    private_bio: "file:./npc_bios/private_alice_thirlby.txt",
+    color: "ffffff",
+    inventory: [],
+    abilities: []
+}

@@ -1,0 +1,20 @@
+{
+    name: 'Acolyte',
+    armor: 0,
+    level: 5,
+    hostile: true,
+    stats: {
+        health: {
+            max: 15,
+            current: 15
+        }
+    },
+    bio: "file:./npc_bios/acolyte.txt",
+    private_bio: "",
+    color: "000944",
+    inventory: [],
+    abilities: [{
+        name: "Pulse of Energy",
+        description: "This magic user has the ability to cast a streak of energy which disrupts the forces holding objects together, and inflicts 6 damage."
+    }]
+}

@@ -1,0 +1,36 @@
+{
+    player_name: 'sandy',
+    name: 'Sandy D',
+    type: 'Warrior',
+    short_description: "The Brawler. A secretive supernatural underground fighter who hides her identity to earn money in London's fight scene, with the support and sponsorship of Lord Williams",
+    tier: 1,
+    effort: 1,
+    armor: 1,
+    edge: {
+        might: 1,
+        speed: 0,
+        intellect: 0
+    },
+    stats: {
+        might: {
+            max: 13,
+            current: 13
+        },
+        speed: {
+            max: 12,
+            current: 12
+        },
+        intellect: {
+            max: 9,
+            current: 9
+        }, 
+        exp: {
+            current: 0,
+            max: 10
+        }
+    },
+    bio: "file:./bios/fighter_bio.txt",
+    color: "0000bb",
+    inventory: "json5:./inventory/fighter.json5",
+    abilities: "json5:./abilities/fighter.json5"
+}

@@ -1,0 +1,17 @@
+{
+    name: 'Hermit',
+    armor: 0,
+    level: 10,
+    hostile: false,
+    stats: {
+        health: {
+            max: 30,
+            current: 30
+        }
+    },
+    bio: "file:./npc_bios/hermit.txt",
+    private_bio: "file:./npc_bios/private_hermit.txt",
+    color: "4B00AF",
+    inventory: [],
+    abilities: []
+}

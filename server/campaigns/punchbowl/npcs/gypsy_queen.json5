@@ -1,0 +1,20 @@
+{
+    name: 'Elphie Green',
+    armor: 0,
+    level: 7,
+    hostile: false,
+    stats: {
+        health: {
+            max: 21,
+            current: 21
+        }
+    },
+    bio: "file:./npc_bios/gypsy_queen.txt",
+    private_bio: "file:./npc_bios/private_gypsy_queen.txt",
+    color: "004F00",
+    inventory: [{
+        name: "Family Heirloom",
+        description: "This jewellery she's wielding carries a faint unnatural glow, a sensation of the mystical exudes from it"
+    }],
+    abilities: []
+}

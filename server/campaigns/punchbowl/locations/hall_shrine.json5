@@ -1,0 +1,8 @@
+{
+    name: "Ancient Shrine (duhitr devata) [H]",
+    description: "file:./locations/descriptions/shrine.txt",
+    act: 3,
+    private_description: "file:./locations/descriptions/private_shrine.txt",
+    audio: "chamber_of_the_gods",
+    features: []
+}

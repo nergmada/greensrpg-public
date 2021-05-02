@@ -1,0 +1,9 @@
+The man is not a ranger. He is a bandit, who has disguised himself as a ranger. He attempts to invite the party in to lock them inside.
+
+level 5 perception task: You notice that his hands are freshly bloodied, and there are similar blood stains at the top of his collar. Yet you see no signs of a wild animal and he seems uninjuried
+
+level 4 deception task: The ranger's body language is off and you suspect something. You carefully move to his right as the rest of your party engage with him. Through the door you notice the leg of a stripped corpse
+
+level 7 (2 if captured) intimidation task: You grip the ranger by the throat and threaten to come back and throw him off the second floor if he's lying. He immediately succumbs to your threat and explains that he was ordered to come here and kill the ranger to prevent him assisting you and to delay you. He hands you a map and tells you that he doesn't know where the Lady is but that the travellers have scouts throughout the forest.
+
+Attempts to flee at 4 health or below.

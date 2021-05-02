@@ -1,0 +1,36 @@
+{
+    player_name: 'meg',
+    name: 'Meg Z',
+    type: 'Adept',
+    short_description: "The Agent. A supernaturally gifted fixer for the elusive occult collector, Lord Williams",
+    tier: 1,
+    effort: 1,
+    armor: 0,
+    edge: {
+        might: 0,
+        speed: 0,
+        intellect: 1
+    },
+    stats: {
+        might: {
+            max: 9,
+            current: 9
+        },
+        speed: {
+            max: 10,
+            current: 10
+        },
+        intellect: {
+            max: 15,
+            current: 15
+        }, 
+        exp: {
+            current: 0,
+            max: 10
+        }
+    },
+    bio: "file:./bios/agent_bio.txt",
+    color: "bb44aa",
+    inventory: "json5:./inventory/agent.json5",
+    abilities: "json5:./abilities/agent.json5"
+}

@@ -1,0 +1,11 @@
+{
+    name: "Cavern Shrine Entrance",
+    description: "file:./locations/descriptions/shrine_door.txt",
+    act: 2,
+    images: [
+        'asset:./locations/shrine_door'
+    ],
+    private_description: "file:./locations/descriptions/private_shrine_door.txt",
+    audio: "shrine_entrance",
+    features: []
+}

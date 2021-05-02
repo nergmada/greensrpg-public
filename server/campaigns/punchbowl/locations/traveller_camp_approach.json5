@@ -1,0 +1,8 @@
+{
+    name: "Traveller's Camp Approach",
+    description: "file:./locations/descriptions/traveller_camp_approach.txt",
+    private_description: "file:./locations/descriptions/private_traveller_camp_approach.txt",
+    audio: "forest",
+    act: 1,
+    features: []
+}

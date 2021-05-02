@@ -1,0 +1,36 @@
+{
+    player_name: 'aubrey',
+    name: 'Aubrey H',
+    type: 'Explorer',
+    short_description: "The Archaeologist. A studier of looted occult artifacts at the British Museum, who has furnished Lord Williams with her occult knowledge",
+    tier: 1,
+    effort: 1,
+    armor: 0,
+    edge: {
+        might: 1,
+        speed: 0,
+        intellect: 1
+    },
+    stats: {
+        might: {
+            max: 13,
+            current: 13
+        },
+        speed: {
+            max: 10,
+            current: 10
+        },
+        intellect: {
+            max: 13,
+            current: 13
+        }, 
+        exp: {
+            current: 0,
+            max: 10
+        }
+    },
+    bio: "file:./bios/archaeologist_bio.txt",
+    color: "aacc11",
+    inventory: "json5:./inventory/archaeologist.json5",
+    abilities: "json5:./abilities/archaeologist.json5"
+}

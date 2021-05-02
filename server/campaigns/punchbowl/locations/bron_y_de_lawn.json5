@@ -1,0 +1,11 @@
+{
+    name: "The Gardens of Bron-y-de",
+    audio: "forest_2",
+    act: 1,
+    images: [
+        'asset:./locations/manor_exterior_garden',
+        'asset:./locations/manor_exterior_garden_2'
+    ],
+    description: "file:./locations/descriptions/bron_y_de_lawn.txt",
+    features: []
+}

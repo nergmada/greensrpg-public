@@ -1,0 +1,23 @@
+{
+    name: 'Mercenary Officer',
+    armor: 1,
+    level: 4,
+    hostile: true,
+    stats: {
+        health: {
+            max: 12,
+            current: 12
+        }
+    },
+    bio: "file:./npc_bios/heavy_mercenary.txt",
+    private_bio: "",
+    color: "000944",
+    inventory: [{
+        name: "Rifle (W, Med)",
+        description: "This rifle is a standard service rifle given to various officers and infantry in British forces"
+    }, {
+        name: "Revolver (W, Lgt)",
+        description: "This revolver is a standard service revolver given to officers in British forces"
+    }],
+    abilities: []
+}

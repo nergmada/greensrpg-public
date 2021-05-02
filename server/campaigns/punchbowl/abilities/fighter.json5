@@ -1,0 +1,19 @@
+[{
+    name: "Combat Prowess (E)",
+    description: "You add +1 damage to one type of weapon attack of your choice: melee weapon attacks or ranged weapon attacks. Enabler. (Melee Chosen)"
+}, {
+    name: "No Need for Weapons (E)",
+    description: "file:./all_abilities/no_need_for_weapons.txt"
+}, {
+    name: "Swipe (A)",
+    description: "file:./all_abilities/swipe.txt"
+}, {
+    name: "Trained without Armor (E)",
+    description: "file:./all_abilities/trained_without_armor.txt"
+}, {
+    name: "Fists of Fury (E,F)",
+    description: "file:./all_abilities/fists_of_fury.txt"
+}, {
+    name: "Flesh of Stone (E,F)",
+    description: "file:./all_abilities/flesh_of_stone.txt"
+}]
